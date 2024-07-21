@@ -1,13 +1,1 @@
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#VP~MCI~9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.178:989#VP~MCI~12
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#VP~MCI~6
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#VP~MCI~5
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#VP~MCI~3
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.164.35.9:989#VP~MCI~11
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#VP~MCI~7
-ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@103.172.116.103:9018#VP~MCI~8
-vless://6c25c737-ea4e-48e1-8901-8868bb429345@zula.ir:2086?security=&fp=chrome&type=ws&path=/@Kingspeed_support-iran?ed%3D1024&host=Cloutdcjvg.samancenter.com.&encryption=none#VP~MCI~10
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?security=&fp=chrome&type=ws&path=/&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&encryption=none#VP~MCI~4
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:8080?security=&fp=chrome&type=ws&path=/&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&encryption=none#VP~MCI~2
-vless://34376d1b-efcb-4e9d-81b8-914f63b79ff1@104.21.69.44:8080?security=&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#VP~MCI~13
-vless://telegram-id-ArV2ray@104.17.148.22:8080?security=&fp=chrome&type=ws&path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed%3D2048&host=7.www.speedtest.net.dev.cloudflare.com.mashtimji.ir.&encryption=none#VP~MCI~1
+
