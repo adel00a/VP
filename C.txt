@@ -41,3 +41,5 @@ vless://b927294d-b137-45ff-ac76-86d774a15c0a@159.89.55.172:443?security=reality&
 vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?security=&fp=chrome&type=ws&path=/&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%206
 vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&sni=analytics.google.com&fp=chrome&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%2032
 vless://19c80ce9-0935-41b9-b077-277621316a87@45.76.33.120:443?security=tls&sni=hidd2.afsharidempire.uk&alpn=h2&fp=chrome&type=ws&path=/L7rg6DtGQXTjd07ui73LZgwx8s&host=hidd2.afsharidempire.uk&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%2024
+ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9OLS1aRURNT0RFT04=@45.145.42.70:25367#VP-MTN-4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#VP-MTN-1*
