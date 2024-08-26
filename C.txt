@@ -46,3 +46,4 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=&fp=chro
 vless://131f0fe7-9042-4180-b2a1-8dc51d3fdffe@bvcvgt5.vhghhh.meghdad-market2.ir:8443?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%206
 vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443?security=tls&sni=jorum.toptechnonews.com&fp=chrome&type=ws&path=/nimws&host=jorum.toptechnonews.com&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20111
 vless://8cee3937-8acb-4d52-e153-7db5faa62a5f@chanel-sn.lavazemkhoshina.ir:46101?security=reality&sni=help.mega.io&fp=chrome&pbk=DPzR_HeOcmpnM-TkuGNxoKM4oa6qWmexemmeoOksfU8&type=grpc&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%207
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#VP-MTN-1*
