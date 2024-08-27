@@ -46,3 +46,5 @@ vless://51f46647-fd2e-4c91-8258-06110ebbcc5b@jhyuiuy6t.hamrah.panel-juyom.ir:443
 vless://51f46647-fd2e-4c91-8258-06110ebbcc5b@dfggtrhjjkl.hamrah.panel-juyom.ir:443?security=&fp=chrome&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%2036
 vless://51f46647-fd2e-4c91-8258-06110ebbcc5b@sadffghytr.hamrah.panel-juyom.ir:443?security=&fp=chrome&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%2052
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?security=tls&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev&alpn=h2,http/1.1&fp=randomized&type=ws&path=/ATdmeWNJtRAFAGlU?ed%3D2560&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&encryption=none#VP-MTN---15
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#VP-MTN-1*
