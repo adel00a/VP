@@ -1,9 +1,1 @@
-vless://1fed21f5-a338-4b69-895d-99ea551c1f43@185.146.173.58:80?security=&fp=chrome&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed%3D2560&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&encryption=none#VP-ADSL---4
-vless://03d25a8c-2d35-5e37-b689-95cc627ef40f@185.146.173.32:80?security=&fp=chrome&type=ws&path=/JoinTelegram-@ELiV2ry-@ELiV2ry-?ed%3D2048&host=www.crypto.com.joinTelegram.ELiV2ry.com.be2.vless.Sitespeedtest.net.&encryption=none#VP-ADSL---8
-vless://TELEGRAM-NUFiLTER@speedtest.net:80?security=&fp=chrome&type=ws&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&host=Aw.ir&encryption=none#VP-ADSL---1
-vless://b291fa1e-c6bb-4e0a-ece3-a9b85cf5bdf9@46.245.72.13:30692?security=&fp=chrome&type=tcp&path=/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray&headerType=http&host=Webmail.yjc.ir&encryption=none#VP-ADSL---2
-vless://f99e4bcb-39f3-5188-96a1-08f56c7ecf16@www.speedtest.net:2052?security=&fp=chrome&type=ws&path=/Tel-ELiV2ry-ELiV2ry-?ed%3D2048&host=rubika.ir.joinTelegram.ELiV2ry.fi2.vless.Sitespeedtest.net.&encryption=none#VP-ADSL---7
-vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@151.101.2.219:443?security=tls&sni=speedtest.net&fp=chrome&type=ws&path=/websocket?ed%3D2560&host=01.ir&encryption=none#VP-ADSL---9
-vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@speedtest.org:80?security=&fp=chrome&type=ws&host=wWw.SpEedTeSt.nEt.ZuLa.Ir.IkCoSaLeS.Ir.D662599.v06.dIgIkAlAcOmIrDiVaRiR.CoM.&encryption=none#VP-ADSL---6
-vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@speedtest.org:80?security=&fp=chrome&type=ws&host=wWw.SpEedTeSt.nEt.ZuLa.Ir.IkCoSaLeS.Ir.D662599.v14.dIgIkAlAcOmIrDiVaRiR.CoM.&encryption=none#VP-ADSL---3
-vless://telegram-id-ArV2ray@speedtest.net:443?security=tls&sni=speedtest.net&alpn=h2,http/1.1&fp=chrome&type=ws&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed%3D2048&host=edeie1.ir&encryption=none#VP-ADSL---5
+a
