@@ -43,4 +43,4 @@ vless://telegram-id-ArV2ray@speedtest.net:80?security=&fp=chrome&type=ws&path=/t
 vless://telegram-id-ArV2ray@speedtest.net:80?security=&fp=chrome&type=ws&path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed%3D80&host=sewut5.ir&encryption=none#♻️VP-MTN♻️++43
 vless://636e9836-486f-45ec-f598-ee63785c3837@62.60.177.136:2053?security=&fp=chrome&type=tcp&path=/&headerType=http&host=speedtest.net&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%203
 vless://990ead22-3ee5-468b-c8da-8d2776ef2800@62.60.177.136:2053?security=&fp=chrome&type=tcp&path=/&headerType=http&host=speedtest.net&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%201
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?security=&fp=chrome&type=ws&path=/http&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%2010
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?security=&fp=chrome&type=ws&path=/http&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%2010ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#VP-MTN-1*
