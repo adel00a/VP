@@ -37,3 +37,4 @@ vless://3f84451e-ab44-5993-98ce-0fa58450656d@185.146.173.46:80?security=&fp=chro
 vless://DIGIV2RAy@104.17.147.22:2095?security=&fp=chrome&type=ws&path=/tm-Digiv2-__teldIGIv2__-DIGiv&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&encryption=none#%F0%9F%8C%80VP-MTN%F0%9F%8C%80-+11
 vless://43d4a2c2-996b-4910-a0fe-817fad873186@195.254.165.159:40126?security=&fp=chrome&type=tcp&path=/&headerType=http&host=speedtest.net&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%201
 vless://43d4a2c2-996b-4910-a0fe-817fad873186@test3.vip-senior.info:40126?security=&fp=chrome&type=tcp&path=/&headerType=http&host=speedtest.net&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#VP-MTN-1*
