@@ -26,3 +26,4 @@ vmess://eyJhZGQiOiAibWF4Lm1hbmthZG11LmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogIm1heC5t
 vless://269817ea-aeae-434c-86ae-d67f8bdf63b0@78.47.116.150:443?security=reality&sni=cloudflare.com&fp=chrome&pbk=1xkWI1AKdbLxUAeSkWs3DCkd5WasQGJHS_FLtzWKHTY&sid=42&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%8C%80VP-MTN%F0%9F%8C%80+1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#VP-MTN-1*
+vless://DIGIV2RAY@104.17.147.22:2095?security=&fp=chrome&type=ws&path=/tm-Digiv2-__teldIGIv2__-DIGiv&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&encryption=none#%E2%99%BB%EF%B8%8FVP-MTN%E2%99%BB%EF%B8%8F+24
