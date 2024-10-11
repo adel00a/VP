@@ -6,3 +6,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSTU0RkU3bThzdmFVSTdqNWRFRFZ1@89.185.84.185:
 vless://2c0ad808-7251-4db7-8891-77b49e6e1e4d@104.20.7.194:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=aestingdownload.pages.dev&encryption=none#VP™-ADSL--6
 vless://51468106-8019-43b9-8581-800f7149f208@176.118.198.200:2098?security=reality&sni=UNit-Ai.SARBAZIT.COM&fp=firefox&pbk=mfMKDJIs6GE5AHzpTTQ7lC5rFPSKhJJawOGWSer8WFc&sid=d2d74e4f77&type=tcp&flow=xtls-rprx-vision&encryption=none#VP™-ADSL--7
 vless://e43e06ff-6a94-4383-adb8-ff7116a9a518@146.75.54.133:443?security=tls&sni=unternehmen.rossmann.de&alpn=http/1.1&fp=firefox&type=ws&path=/AOagIIfbJJ0hbXIwCE6mq&host=tara.ir&encryption=none#VP™-ADSL--8
+vless://e43e06ff-6a94-4383-adb8-ff7116a9a518@146.75.54.133:443?security=tls&sni=unternehmen.rossmann.de&alpn=http/1.1&fp=firefox&type=ws&path=/AOagIIfbJJ0hbXIwCE6mq&host=tara.ir&encryption=none#VP%E2%84%A2-ADSL-12++
