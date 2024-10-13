@@ -1,14 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#VP™-MTN--1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#VP™-MTN--2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.14:8080#VP™-MTN--3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.19:8080#VP™-MTN--4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.35:8080#VP™-MTN--5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.44:8080#VP™-MTN--6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#VP™-MTN--7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#VP™-MTN--8
-vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@108.165.216.31:443?security=tls&sni=xN----Pmcnaac0DKn0Rb71nDa.PAGes.deV&alpn=h2,http/1.1&fp=randomized&type=ws&path=/QDgbPY504qRAGCv5?ed%3D2560&host=xn----pmcnaac0dkn0rb71nda.pages.dev&encryption=none#VP™-MTN--9
-vless://7daf6801-f3b9-4139-8394-2dd91723c26f@104.17.234.114:8443?security=tls&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/Telegram,VPNCUSTOMIZE?ed%3D8080&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&encryption=none#VP™-MTN--10
-vless://51468106-8019-43b9-8581-800f7149f208@176.118.198.200:2098?security=reality&sni=UNit-Ai.SARBAZIT.COM&fp=firefox&pbk=mfMKDJIs6GE5AHzpTTQ7lC5rFPSKhJJawOGWSer8WFc&sid=d2d74e4f77&type=tcp&flow=xtls-rprx-vision&encryption=none#VP™-MTN--11
-vless://TELEGRAM-NUFiLTER@nufilter.fastly80.hosting-ip.com:80?security=&fp=chrome&type=ws&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&host=A37.config.ir&encryption=none#VP™-MTN--12
-vless://TELEGRAM-NUFiLTER@nufilter.fastly80.hosting-ip.com:80?security=&fp=chrome&type=ws&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&host=Anqadsarmas.net&encryption=none#VP™-MTN--13
-vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?security=&fp=chrome&type=ws&path=/vless&host=Nl2.vless.site.&encryption=none#VP™-MTN--14
+A
