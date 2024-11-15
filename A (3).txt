@@ -22,5 +22,3 @@ vless://1250c0dd-856e-4cb9-b254-5d8e55419fed@my.jasrama.com:2096?security=realit
 vless://5a64a684-7c96-42b4-b066-8ec3a138998a@150.241.83.80:8443?security=tls&sni=yyyyyyyu.v2ryng01.ru&alpn=h2,http/1.1&fp=chrome&type=tcp&encryption=none#🌀VP™-ADSL🌀-7
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🌀VP™-ADSL🌀-8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#🌀VP™-ADSL🌀-9
-
-v
