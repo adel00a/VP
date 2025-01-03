@@ -75,3 +75,4 @@ vmess://eyJhZGQiOiAiMTQ0LjEyNi4yMzcuODUiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzb2Z0OTgu
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.134.239.173:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&fp=chrome&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#🟢VP™-ADSL🟢+75
 vless://fcf99985-147b-4c71-c3f2-f448e5a379f1@45.63.117.50:443?security=tls&sni=cpanel3.sassanidempire.com&fp=chrome&type=ws&path=/ws&host=cpanel3.sassanidempire.com&encryption=none#🟢VP™-ADSL🟢+76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig58.usecharge.ir:443#🟢VP™-ADSL🟢+77
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.176:2198?security=&fp=chrome&type=tcp&encryption=none#%F0%9F%9F%A2VP%E2%84%A2-ADSL%F0%9F%9F%A2-++
