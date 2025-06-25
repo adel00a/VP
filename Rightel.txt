@@ -1,100 +1,66 @@
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.245.228.251:8880?security=&fp=chrome&type=ws&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2%20/?ed%3D2560fp%3Dchrome&host=cf.d3z.net&encryption=none#🌀VP™🌀(Samantel) /1
-vless://37cf2001-eb48-49c5-9fe5-69142fc8fc27@fp.emeonline.top:3489?security=&fp=chrome&type=tcp&headerType=http&host=varzesh3.com&encryption=none#🌀VP™🌀(Samantel) /2
-vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?security=&fp=chrome&type=tcp&encryption=none#🌀VP™🌀(Samantel) /3
-vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?security=&fp=chrome&type=tcp&encryption=none#🌀VP™🌀(Samantel) /4
-vless://3106395c-7769-412b-82ae-a7b2aab693ee@tr-server-vip-n-g-s-is.tr-vip-nightgemshop.pledh.com:8080?security=&fp=chrome&type=tcp&encryption=none#🌀VP™🌀(Samantel) /5
-vless://020f1fc3-02f4-49c4-ae0e-8881ecc82467@speedtest.net:80?security=&fp=chrome&type=tcp&encryption=none#🌀VP™🌀(Samantel) /6
-vless://%40%40BeFreeWithUs@speedtest.net:80?security=&fp=chrome&type=ws&path=/&host=befreewithus.net&encryption=none#🌀VP™🌀(Samantel) /7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#🌀VP™🌀(Samantel) /8
-vless://4fe16c63-4ba7-414e-886e-c00657f5363e@speedtest.net:80?security=&fp=chrome&type=ws&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed%3D2048&host=fastusa.com&encryption=none#🌀VP™🌀(Samantel) /9
-vless://c72db571-2c94-4bfa-e546-c6eca9e43b91@151.101.130.219:80?security=&fp=chrome&type=ws&path=/olem/ws?ed%3D1024&host=foffmelo.com&encryption=none#🌀VP™🌀(Samantel) /10
-vless://bfc791d7-0ff4-4a9a-8215-118c496a7cd1@vip.360store.info:443?security=&fp=chrome&type=tcp&headerType=http&host=&encryption=none#🌀VP™🌀(Samantel) /11
-vless://358f5e90-e13d-4d3f-a6bd-bc7a15e72204@ir.nisvn.ir:500?security=&fp=chrome&type=tcp&headerType=http&host=telewebion.com&encryption=none#🌀VP™🌀(Samantel) /12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowWU1OaTJuajc0aDhwN29HQXNFTFRI@128.199.191.153:51697#🌀VP™🌀(Samantel) /13
-vless://ac13024d-c339-46b5-933a-f27db4e98278@79.127.69.118:2344?security=&fp=chrome&type=tcp&headerType=http&host=telewebion.com&encryption=none#🌀VP™🌀(Samantel) /14
-vless://56544fd6-2347-44f7-80a7-4a1a9c58bf31@178.239.157.110:2053?security=&fp=chrome&type=tcp&headerType=http&host=zula.ir&encryption=none#🌀VP™🌀(Samantel) /15
-vless://ca737a09-9eb9-4c59-a55c-f3cfddf573f1@tr-server-vip-n-g-s-is.tr-vip-nightgemshop.pledh.com:8080?security=&fp=chrome&type=tcp&encryption=none#🌀VP™🌀(Samantel) /16
-vless://b5e0289d-1bb7-4c5b-f850-016298066cf8@media.samagazine.ir:8080?security=&fp=chrome&type=tcp&headerType=http&host=&encryption=none#🌀VP™🌀(Samantel) /17
-vless://00e91b11-a471-4eeb-85c1-79d7667bd6e8@pointx.officialvpn.shop:3034?security=&fp=chrome&type=tcp&headerType=http&host=telewebion.com&encryption=none#🌀VP™🌀(Samantel) /18
-vless://cb3add9b-cdd5-4a4c-904e-a2e8a264170b@151.101.130.219:80?security=&fp=chrome&type=ws&host=retete3.ir&encryption=none#🌀VP™🌀(Samantel) /19
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.85:8880?security=&fp=chrome&type=ws&path=Telegram@WangCai2/?ed%3D2048&host=sg.laoyoutiao.link&encryption=none#🌀VP™🌀(Samantel) /20
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#🌀VP™🌀(Samantel) /21
-vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?security=&fp=chrome&type=tcp&headerType=http&host=Fast.com&encryption=none#🌀VP™🌀(Samantel) /22
-vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@45.135.235.31:443?security=tls&sni=yomyauqpy.wwtraveler.com&fp=chrome&type=grpc&serviceName=michi&encryption=none#🌀VP™🌀(Samantel) /23
-vless://130e7f81-c2af-45f6-85f6-c9602e9fc179@ir.nisvn.ir:500?security=&fp=chrome&type=tcp&headerType=http&host=telewebion.com&encryption=none#🌀VP™🌀(Samantel) /24
-vless://cc515015-7e7c-485d-b385-423a7a124a40@151.101.2.219:80?security=&fp=chrome&type=tcp&encryption=none#🌀VP™🌀(Samantel) /25
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.104.245:80?security=&fp=chrome&type=ws&path=Telegram:@V2ray_Alpha/?ed%3D2560&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&encryption=none#🌀VP™🌀(Samantel) /26
-vless://64b58515-5ab7-43dd-8517-049e03db19e6@1414team2.persianclouding.ir:80?security=&fp=chrome&type=tcp&encryption=none#🌀VP™🌀(Samantel) /27
-vless://94b9b7ac-4cff-4f7a-956a-05fd51bbf7c5@vip8.radmanmax.ir:8052?security=&fp=chrome&type=tcp&headerType=http&host=&encryption=none#🌀VP™🌀(Samantel) /28
-vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@hp3.multiproxy.info:7031?security=&fp=chrome&type=tcp&headerType=http&host=parssafe.com&encryption=none#🌀VP™🌀(Samantel) /29
-vless://52d33a89-e67e-42f3-b76b-c6a79abd284d@speedtest.net:80?security=&fp=chrome&type=ws&path=/&host=befreewithus.net&encryption=none#🌀VP™🌀(Samantel) /30
-vless://b100bc08-4991-4f19-88a4-7c8dbfc176a2@185.143.234.143:443?security=tls&sni=panel.faloweram.ir&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/&host=panel.faloweram.ir&encryption=none#🌀VP™🌀(Samantel) /31
-vless://3805d64e-2340-4088-a687-5c4f959d0253@vip8.radmanmax.ir:8052?security=&fp=chrome&type=tcp&headerType=http&host=&encryption=none#🌀VP™🌀(Samantel) /32
-vless://0a078a81-3ca3-4d23-8b2a-c1ae933477db@ir01.catfire.site:2087?security=&fp=chrome&type=ws&path=/&encryption=none#🌀VP™🌀(Samantel) /33
-vless://caf65b9d-1091-4126-a4ee-eb41217c0269@referred.tutorial4kids.com:80?security=&fp=chrome&type=ws&path=/&encryption=none#🌀VP™🌀(Samantel) /34
-vless://f4a9223d-2763-418d-b0da-20e013cbe405@speedtest.net:80?security=&fp=chrome&type=ws&path=/&host=befreewithus.com&encryption=none#🌀VP™🌀(Samantel) /35
-vless://55584555-97d6-429c-8480-abd526fcb437@speedtest.net:80?security=&fp=chrome&type=ws&path=/&host=befreewithus.net&encryption=none#🌀VP™🌀(Samantel) /36
-vless://9589e208-de8f-4835-8e5c-aacf48bcc528@p2.xqfire.ir:218?security=&fp=chrome&type=tcp&headerType=http&host=speedtest.net&encryption=none#🌀VP™🌀(Samantel) /37
-vless://c03c5771-63bd-4406-bb41-1f2125abfdbd@speedtest.net:80?security=&fp=chrome&type=xhttp&encryption=none#🌀VP™🌀(Samantel) /38
-vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?security=&fp=chrome&type=xhttp&encryption=none#🌀VP™🌀(Samantel) /39
-vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?security=&fp=chrome&type=xhttp&encryption=none#🌀VP™🌀(Samantel) /40
-vless://64b58515-5ab7-43dd-8517-049e03db19e6@1414team2.persianclouding.ir:80?security=&fp=chrome&type=xhttp&encryption=none#🌀VP™🌀(Samantel) /41
-vless://Parsashonam-262@speedtest.net:80?security=&fp=chrome&type=xhttp&encryption=none#🌀VP™🌀(Samantel) /42
-vless://Parsashonam-262@151.101.130.219:80?security=&fp=chrome&type=xhttp&encryption=none#🌀VP™🌀(Samantel) /43
-vless://bf162217-cf4a-47c5-ad9f-11d51e96dbd0@iza4.lalash.ir:80?security=&fp=chrome&type=xhttp&encryption=none#🌀VP™🌀(Samantel) /44
-vless://6bd60a4e-a1fe-480f-aea5-0eabb6fdefdd@www.arvancloud.ir:80?security=&fp=chrome&type=httpupgrade&path=/wss8000&host=DE-1.PoWerAlpha.IR.&encryption=none#🌀VP™🌀(Samantel) /45
-vless://3bb79f8b-8793-49b9-8603-8659b917b336@151.101.2.219:80?security=&fp=chrome&type=xhttp&encryption=none#🌀VP™🌀(Samantel) /46
-vless://e26f7c15-5805-4082-aa3c-91553d53cb03@195.200.77.228:443?security=tls&sni=de1.blackismyfavorite.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&path=/XRAYVPNHTTPUPGRADE&host=de1.blackismyfavorite.ir&encryption=none#🌀VP™🌀(Samantel) /47
-vless://6bd60a4e-a1fe-480f-aea5-0eabb6fdefdd@www.arvancloud.ir:80?security=&fp=chrome&type=httpupgrade&path=/wss8000?ed%3D%23TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI/?ed%3D2560&host=DE-1.PoWerAlpha.IR.&encryption=none#🌀VP™🌀(Samantel) /48
-vless://6bd60a4e-a1fe-480f-aea5-0eabb6fdefdd@www.arvancloud.ir:80?security=&fp=chrome&type=httpupgrade&path=/wss8000&host=DE-1.PoWerAlpha.IR.&encryption=none#🌀VP™🌀(Samantel) /49
-vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?security=&fp=chrome&type=tcp&headerType=http&host=Fast.com&encryption=none#🌀VP™🌀(Samantel) /50
-vless://3949e54e-919d-4192-94b3-e398e7911ecf@89.44.243.113:39131?security=&alpn=http/1.1&fp=chrome&type=tcp&headerType=http&host=skyroom.online,igap.net,gharar.ir&encryption=none#🌀VP™🌀(Samantel) /51
-vless://d8baacae-584c-4d6b-b69c-c92dd5e0aaf9@tn.komak-ar-online.online:3801?security=&fp=chrome&type=tcp&headerType=http&host=&encryption=none#🌀VP™🌀(Samantel) /52
-vless://6a95ab39-3991-4507-ebea-313bdb395df9@151.101.2.219:80?security=&fp=chrome&type=ws&path=/@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed%3D2048&host=Loopingshop.com&encryption=none#🌀VP™🌀(Samantel) /53
-vless://6a95ab39-3991-4507-ebea-313bdb395df9@151.101.66.219:80?security=&fp=chrome&type=ws&path=/@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed%3D2048&host=Loopingshop.com&encryption=none#🌀VP™🌀(Samantel) /54
-vless://6a95ab39-3991-4507-ebea-313bdb395df9@151.101.130.219:80?security=&fp=chrome&type=ws&path=/@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed%3D2048&host=Loopingshop.com&encryption=none#🌀VP™🌀(Samantel) /55
-vless://d5fdc459-436b-459d-beda-b06d70c93af1@a9e506m81d.the-scary-deep-forest-of-my-mind.top:5131?security=&fp=chrome&type=tcp&headerType=http&host=&encryption=none#🌀VP™🌀(Samantel) /56
-vless://c4e0bd54-4f7b-4d9c-ab80-f9ee804e3339@all.hajihesam.biz.id:443?security=tls&sni=de77.hajihesam.biz.id&alpn=h2,http/1.1&fp=firefox&type=ws&path=/ws?ed&host=de77.hajihesam.biz.id&encryption=none#🌀VP™🌀(Samantel) /57
-vless://6a95ab39-3991-4507-ebea-313bdb395df9@151.101.194.219:80?security=&fp=chrome&type=ws&path=/@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed%3D2048&host=Loopingshop.com&encryption=none#🌀VP™🌀(Samantel) /58
-vless://37e5f98b-b75d-4f35-bb2c-ddfbcbd0f987@151.101.2.219:8880?security=&fp=chrome&type=ws&path=/@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed%3D2048&host=joker.ahang-alpha.IR&encryption=none#🌀VP™🌀(Samantel) /59
-vless://9718b260-03c9-4313-af0f-d08a0b5c859e@video-streaming.comtent-delivery.poshtibani.4b3a.com:23410?security=&fp=chrome&type=tcp&headerType=http&host=fonts.gstatic.com&encryption=none#🌀VP™🌀(Samantel) /60
-vless://914b24f0-ad36-447a-8807-d6fdff103afb@185.143.235.201:2083?security=tls&sni=snapp.ir&alpn=http/1.1&fp=randomized&type=ws&path=/BmHlLvr3qZOOinuP?ed&host=s1.www.getasa.ir&encryption=none#🌀VP™🌀(Samantel) /61
-vmess://eyJhZGQiOiAiaHMyLm11bHRpcHJveHkuaW5mbyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICIyNmQ5ZGRkOS0xZTVkLTQ2ZmMtOGJhYS1hNzc0NzVjMjllNjgiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjk5NzkiLCAicHMiOiAiXHVkODNjXHVkZjAwVlBcdTIxMjJcdWQ4M2NcdWRmMDAoU2FtYW50ZWwpIC82MiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://6e30bc3d-0e3a-4399-9a02-c2d943e8d108@tfir.tehranify.shop:2344?security=&fp=chrome&type=tcp&headerType=http&host=telewebion.com&encryption=none#🌀VP™🌀(Samantel) /63
-vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@2.189.118.210:500?security=&fp=chrome&type=tcp&headerType=http&host=fast.com&encryption=none#🌀VP™🌀(Samantel) /64
-vless://ae9539b5-70dd-41b5-9666-11a29559a840@ver2.tcod008.info:59761?security=&fp=chrome&type=tcp&headerType=http&host=Fast.com&encryption=none#🌀VP™🌀(Samantel) /65
-vless://%40%40BeFreeWithUs@speedtest.net:80?security=&fp=chrome&type=ws&path=/&host=befreewithus.net&encryption=none#🌀VP™🌀(Samantel) /66
-vless://ae9539b5-70dd-41b5-9666-11a29559a840@ver2.tcod008.info:59761?security=&fp=chrome&type=tcp&headerType=http&host=Fast.com&encryption=none#🌀VP™🌀(Samantel) /67
-vless://3705b32a-3b29-42b9-827e-6d2ead3472fe@netorg.nightwolf.shop:35457?security=&fp=chrome&type=grpc&encryption=none#🌀VP™🌀(Samantel) /68
-vless://37cf2001-eb48-49c5-9fe5-69142fc8fc27@fp.emeonline.top:3489?security=&fp=chrome&type=tcp&headerType=http&host=varzesh3.com&encryption=none#🌀VP™🌀(Samantel) /69
-vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@2.189.118.210:500?security=&fp=chrome&type=tcp&headerType=http&host=fast.com&encryption=none#🌀VP™🌀(Samantel) /70
-vless://272a9b53-172b-4f7f-87aa-d70237de1648@rocket.mrpro77.top:25054?security=&fp=chrome&type=tcp&headerType=http&host=www.speedtest.net&encryption=none#🌀VP™🌀(Samantel) /71
-vless://272a9b53-172b-4f7f-87aa-d70237de1648@rocket.mrpro77.top:25054?security=&fp=chrome&type=tcp&headerType=http&host=www.speedtest.net&encryption=none#🌀VP™🌀(Samantel) /72
-vmess://eyJhZGQiOiAibmV0aGVybGFuZHMuYXBhcmF0LW1vdmllcy1kb3dubG9hZC5pciIsICJhaWQiOiAiMCIsICJob3N0IjogInNvZnQ5OC5pciIsICJpZCI6ICJkNTEwYjM5Yy05ZDJlLTRjNWQtODM1My04Y2E3NjQ3ZWVlMWEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0MjU2MiIsICJwcyI6ICJcdWQ4M2NcdWRmMDBWUFx1MjEyMlx1ZDgzY1x1ZGYwMChTYW1hbnRlbCkgLzczIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0
-vless://b00fb164-0491-432a-baf0-c904d1953425@speedtest.net:80?security=&fp=chrome&type=ws&path=/ed%3D2560&host=speedtest.net.km&encryption=none#🌀VP™🌀(Samantel) /74
-vless://ba93188d-0f53-4aa2-8ece-b54e3556003d@s5.sibapp2.com:2096?security=reality&sni=google.com&fp=chrome&pbk=9vGhaOg3oljwe-dt5F5ek8w1x2njpQeEqwmcibQtHhQ&sid=6d0c55f9&spx=/&type=grpc&encryption=none#🌀VP™🌀(Samantel) /75
-vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@oland.hamrahconfig.ir:4471?security=&fp=chrome&type=tcp&headerType=http&host=&encryption=none#🌀VP™🌀(Samantel) /76
-vless://c0ac6d0a-dba7-4a19-97d3-ebae0ddefcfa@home.phpdeb.ir:8446?security=&fp=chrome&type=tcp&encryption=none#🌀VP™🌀(Samantel) /77
-vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@mrvip.wineston.site:1001?security=&fp=chrome&type=tcp&headerType=http&host=&encryption=none#🌀VP™🌀(Samantel) /78
-vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.189:443?security=tls&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&alpn=h2,http/1.1&fp=randomized&type=ws&path=/ws?ed%3D2560&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&encryption=none#🌀VP™🌀(Samantel) /79
-vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@xthz2jaffl.the-hot-and-dry-desert-of-my-body.top:5075?security=&fp=chrome&type=tcp&headerType=http&host=&encryption=none#🌀VP™🌀(Samantel) /80
-vless://358f5e90-e13d-4d3f-a6bd-bc7a15e72204@ir.nisvn.ir:500?security=&fp=chrome&type=tcp&headerType=http&host=telewebion.com&encryption=none#🌀VP™🌀(Samantel) /81
-vless://57a95e4e-0cce-4bf9-e205-18e91bf32871@62.60.156.205:443?security=tls&sni=nl2.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro&alpn=h2,http/1.1&fp=randomized&type=ws&path=/?ed%3D2560&host=nl2.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro&encryption=none#🌀VP™🌀(Samantel) /82
-vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.83:443?security=tls&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&alpn=h2,http/1.1&fp=randomized&type=ws&path=/ws?ed%3D2560&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&encryption=none#🌀VP™🌀(Samantel) /83
-vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@h2.tikmarket1.site:2095?security=&fp=chrome&type=ws&path=/&encryption=none#🌀VP™🌀(Samantel) /84
-ss://YWVzLTI1Ni1nY206MGU5YjU4YWEtZWM3OS02ODI3LWM2NzktODAyZmYzMjliMWEx@37050813702269272654038283817908.international-ixp.com:11312#🌀VP™🌀(Samantel) /85
-vless://e4e54189-80ab-4e73-90af-b05bf52d0581@vip.zoohall.ir:20255?security=&fp=chrome&type=tcp&headerType=http&host=speedtest.net&encryption=none#🌀VP™🌀(Samantel) /86
-vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@45.32.233.201:63000?security=tls&sni=vkk.wxgqlfx.cn&alpn=http/1.1&fp=random&type=ws&path=/TG@wxgqlfx?ed%3D2560&host=vkk.wxgqlfx.cn&encryption=none#🌀VP™🌀(Samantel) /87
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.85:8880?security=&fp=chrome&type=ws&path=Telegram@WangCai2/?ed%3D2048&host=sg.laoyoutiao.link&encryption=none#🌀VP™🌀(Samantel) /88
-vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@gertu.topvmmarket.shop:2086?security=&fp=chrome&type=tcp&headerType=http&host=bmw.com&encryption=none#🌀VP™🌀(Samantel) /89
-vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?security=&fp=chrome&type=tcp&headerType=http&host=zula.ir&encryption=none#🌀VP™🌀(Samantel) /90
-vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443?security=tls&sni=mydigipay.com&alpn=http/1.1&fp=randomized&type=ws&path=/R8vYH236j2wZpwD34O?ed2048&host=s2.www.getasa.ir&encryption=none#🌀VP™🌀(Samantel) /91
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6587?security=&fp=chrome&type=tcp&headerType=http&host=/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&encryption=none#🌀VP™🌀(Samantel) /92
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6587?security=&fp=chrome&type=tcp&headerType=http&host=&encryption=none#🌀VP™🌀(Samantel) /93
-vless://57283cf8-e930-4fea-b434-d0af79edff21@188.121.123.89:9564?security=&fp=chrome&type=tcp&encryption=none#🌀VP™🌀(Samantel) /94
-vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@[2606:4700:3030::6815:4001]:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&alpn=h2,http/1.1&fp=randomized&type=ws&path=vless-ws/?ed%3D2048&host=sub.shadowsokstes.WoRkErs.DeV&encryption=none#🌀VP™🌀(Samantel) /95
-vless://310b0dea-3a54-4e14-9392-db0bbd150dc2@[2a04:4e42::731]:443?security=tls&sni=speedtest.net&alpn=h2,http/1.1&fp=firefox&type=ws&path=/hqv2ray.host?ed%3D443&host=hqv2rayng.cc&encryption=none#🌀VP™🌀(Samantel) /96
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.78:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&alpn=h3,h2&fp=chrome&type=ws&path=/&host=QtRkJtLt27.pRiMeXaD.OrG&encryption=none#🌀VP™🌀(Samantel) /97
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@[2606:4700::6812:9b77]:443?security=tls&sni=rayan-07.parastoo.dpdns.org&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-07.parastoo.dpdns.org&encryption=none#🌀VP™🌀(Samantel) /98
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@89.117.112.247:8880?security=&sni=ex.sue.x10.mx&allowInsecure=1&fp=chrome&type=ws&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&host=ex.sue.x10.mx&encryption=none#🌀VP™🌀(Samantel) /99
-vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@hp3.multiproxy.info:7031?security=&fp=chrome&type=tcp&headerType=http&host=parssafe.com&encryption=none#🌀VP™🌀(Samantel) /100
+trojan://accbaab-acba-abac-cdba-acbbcaaccbab@127.0.0.1:1080?security=tls&fp=chrome&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%2004-Tir-1404%20%F0%9F%95%91%2017%3A22
+vless://9783723b-b652-472e-aa72-d181621eef41@pxzmc.gamespacy.com:8629?security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&encryption=none#🌀VP™-MTN🌀/1
+vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080?security=&fp=chrome&type=ws&path=/&host=q5.19KAla.co&encryption=none#🌀VP™-MTN🌀/2
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?security=&sni=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&path=/?ed%3D2560&host=barayeiran.nastaranh.dpdns.org&encryption=none#🌀VP™-MTN🌀/3
+vless://a6c4db3e-7785-429e-8bc5-9eaf7b1a79b1@pq-unitedstates2.09vpn.com:80?security=&fp=chrome&type=ws&path=/vless/&encryption=none#🌀VP™-MTN🌀/4
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?security=&fp=chrome&type=ws&path=/?ed%3D%23/TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed%3D512&host=redfree8mahsang6.redfree8.ir&encryption=none#🌀VP™-MTN🌀/5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDLzZNTnZnNDN6RWRubWo2eks1TUFyQUxUZnpoRVRSRDNOekxOVCtJTDk4PQ==@157.180.127.73:17592#🌀VP™-MTN🌀/6
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=&fp=chrome&type=ws&path=/?ed%3D2560&host=redfree8mahsang6.redfree8.ir&encryption=none#🌀VP™-MTN🌀/7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=&sni=TABRIZ.NET&alpn=h2,http/1.1&fp=chrome&type=grpc&encryption=none#🌀VP™-MTN🌀/8
+vless://22f493aa-cab4-4040-bef1-c3a5d4418b3b@185.39.204.29:443?security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&encryption=none#🌀VP™-MTN🌀/9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🌀VP™-MTN🌀/10
+vless://7db53b99-b560-4d25-9b6d-b9bc2ee81398@185.143.232.201:2087?security=tls&sni=vip9.nikatel.store&fp=chrome&type=ws&path=/&host=vip9.nikatel.store&encryption=none#🌀VP™-MTN🌀/11
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=&fp=chrome&type=tcp&encryption=none#🌀VP™-MTN🌀/12
+vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.15.85:8080?security=&fp=chrome&type=ws&path=/&host=4j.QBAo1g5z6k.ZulaIR.org.&encryption=none#🌀VP™-MTN🌀/13
+vless://d26f473f-db91-45b2-8c7e-8f38d294b6b5@tgju.org:8080?security=&fp=chrome&type=ws&path=/?ed%3D2048&host=e2.Ion7FPGEJ8.zuLAIR.org.&encryption=none#🌀VP™-MTN🌀/14
+vless://5a031c79-3b62-44d4-b471-63f160e85d1a@irancell.xher0.de:10883?security=reality&sni=www.speedtest.net&fp=chrome&pbk=-teC-ZXJjQ4v9nyjUKvzOd3FWj-A1QQrKd5FXgjul3s&type=tcp&flow=xtls-rprx-vision&encryption=none#🌀VP™-MTN🌀/15
+vless://38ba4326-aa2f-4d98-a73c-0c7f8eacd5bd@melli.easy-swap.net:80?security=&fp=chrome&type=ws&path=/price&host=api.rtfsystemco.com&encryption=none#🌀VP™-MTN🌀/16
+vless://f46fc54e-0bab-4519-e1a1-fa76dc346a52@t.nargil00.site:10260?security=&fp=chrome&type=tcp&path=/&headerType=http&host=&encryption=none#🌀VP™-MTN🌀/17
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?security=tls&sni=hOZori.iR&alpn=http/1.1&fp=chrome&type=ws&path=/Telegram@V2ray_Alpha&host=hozori.ir&encryption=none#🌀VP™-MTN🌀/18
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🌀VP™-MTN🌀/19
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?security=&fp=chrome&type=ws&path=/TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI/?ed%3D2560&host=redfree8mahsang6.redfree8.ir&encryption=none#🌀VP™-MTN🌀/20
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?security=&sni=agolna.mahsaamini.dpdns.org&fp=random&type=ws&path=/BaRAyeIran?ed%3D2560&host=agolna.mahsaamini.dpdns.org&encryption=none#🌀VP™-MTN🌀/21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDLzZNTnZnNDN6RWRubWo2eks1TUFyQUxUZnpoRVRSRDNOekxOVCtJTDk4PQ==@157.180.127.73:23819#🌀VP™-MTN🌀/22
+vless://0d1cb112-006f-4eaa-89d1-15da714d12e1@yldl.ir:2096?security=&fp=chrome&type=tcp&path=/&headerType=http&host=gharar.ir&encryption=none#🌀VP™-MTN🌀/23
+vless://11841375-c680-4699-a7eb-57f22c709593@188.121.105.9:8081?security=&fp=chrome&type=tcp&encryption=none#🌀VP™-MTN🌀/24
+vless://758ed714-cac7-4b8c-bcf7-c65383789b60@power.teampluss.ir:80?security=&fp=chrome&type=ws&path=/ws/?ed%3D2048&host=irangamebaz4.ir&encryption=none#🌀VP™-MTN🌀/25
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#🌀VP™-MTN🌀/26
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🌀VP™-MTN🌀/27
+vless://651de6cb-df22-45cd-8842-438fdbef87fb@remo.a.lifiline.info:7022?security=reality&sni=refersion.com&fp=firefox&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&type=tcp&encryption=none#🌀VP™-MTN🌀/28
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🌀VP™-MTN🌀/29
+vless://da08534a-bfca-4ac0-bd2a-2e3846bfcbc0@104.26.13.8:2052?security=&fp=chrome&type=ws&path=/&host=q7.19kalA.co&encryption=none#🌀VP™-MTN🌀/30
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#🌀VP™-MTN🌀/31
+vmess://eyJhZGQiOiAiZm9yYm90Lm1vZWluYWlyLnN0b3JlIiwgImFpZCI6ICIwIiwgImhvc3QiOiAic3BlZWR0ZXN0Lm5ldCIsICJpZCI6ICIwMjZiOTAwOC01ZjFjLTRkMDQtOTJkZi1jYzk1NWI2NDExZjEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIzNjk5MCIsICJwcyI6ICJcdWQ4M2NcdWRmMDBWUFx1MjEyMi1NVE5cdWQ4M2NcdWRmMDAvMzIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#🌀VP™-MTN🌀/33
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190:35565#🌀VP™-MTN🌀/34
+vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=&fp=chrome&type=tcp&encryption=none#🌀VP™-MTN🌀/35
+vmess://eyJhZGQiOiAiMTkyLjUzLjExMy4xNTYiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDM2YTI4YzMtNWM4ZC00ZGYzLWE3OWItOWRhNjIyNjQwZjJiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxMDAwMiIsICJwcyI6ICJcdWQ4M2NcdWRmMDBWUFx1MjEyMi1NVE5cdWQ4M2NcdWRmMDAvMzYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vmess://eyJhZGQiOiAic240MzMubmlrYXRlbC5zdG9yZSIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI4NWU0ZjI4MC1jMTY4LTQwYWEtOGYxYy1jNTM3YWQzZTk5NWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYwMFZQXHUyMTIyLU1UTlx1ZDgzY1x1ZGYwMC8zNyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic240MzMubmlrYXRlbC5zdG9yZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vless://e766c326-69fc-4f8e-b62e-0b8308999d52@91.99.156.174:58382?security=reality&sni=tgju.org&fp=chrome&pbk=Cnofk5A5RVK2iDxlBkZY72er8JY-VdRjya8920MvsFg&sid=cfdee2f6c5a3a6&spx=/&type=tcp&encryption=none#🌀VP™-MTN🌀/38
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?security=&fp=chrome&type=ws&path=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed%3D2560&host=redfree8mahsang6.redfree8.ir&encryption=none#🌀VP™-MTN🌀/39
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWV3NCeW1kQ3hRSTlRazht@admin.c4.havij.co:443#🌀VP™-MTN🌀/40
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#🌀VP™-MTN🌀/41
+vless://8d5d0cba-d208-46d3-b212-1081434f447a@all32-vip.f-sub.com:2434?security=reality&sni=chess.com&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&type=tcp&encryption=none#🌀VP™-MTN🌀/42
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#🌀VP™-MTN🌀/43
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOW5URnFNdnY3Snpzd0NuR0xaNng0NW84ZzdUMkV2YVhMa0JNaVdMWEZ1NzljeEdhU0prNFdOaEd0QnZSUG9mMThpR1VHUmJFc1FUTGJ4NXc4WncyZkdLSEUyb3JkeFY=@www2.broadalx.cfd:40934#🌀VP™-MTN🌀/44
+vless://d401f902-7c2a-4d3c-9258-3349dbb4c134@asia3.novahomedesigntips.com:19200?security=&fp=chrome&type=ws&encryption=none#🌀VP™-MTN🌀/45
+vless://eef28945-9cf9-4bf1-a98e-e91996cd7447@r3.irlancer.ir:10476?security=&fp=chrome&type=tcp&encryption=none#🌀VP™-MTN🌀/46
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#🌀VP™-MTN🌀/47
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&sni=147135004002.sec20org.com&fp=chrome&type=tcp&encryption=none#🌀VP™-MTN🌀/48
+vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&flow=xtls-rprx-vision&encryption=none#🌀VP™-MTN🌀/49
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?security=tls&sni=147135004002.sec20org.com&fp=chrome&type=tcp&encryption=none#🌀VP™-MTN🌀/50
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443?security=tls&sni=147135001195.sec22org.com&fp=chrome&type=tcp&encryption=none#🌀VP™-MTN🌀/51
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?security=tls&sni=TITanTabLOmaNAHaMRaH.IR&alpn=http/1.1&fp=randomized&type=ws&path=/jpePYzwY4AyV9UQ8/MTQwLjIzOC4yMTIuOTU&host=titantablomanahamrah.ir&encryption=none#🌀VP™-MTN🌀/52
+vmess://eyJhZGQiOiAiMTA0LjE3LjE3Ni4xNzEiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJrZTdoejM2ZXd6LTQ1MTUwMTc0NzMubWFzaGFsbGFoYmV0LmNvbSIsICJpZCI6ICI2Y2JjOWM3OC0xY2IxLTU3ZDQtYTk5OS1lMmY0ZTM0YzFlMDMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIlx1ZDgzY1x1ZGYwMFZQXHUyMTIyLU1UTlx1ZDgzY1x1ZGYwMC81MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0
+vless://b5818506-2de2-44e3-8c23-bd8406816ff8@a.mgtoken.net:9000?security=tls&sni=a.mgtoken.net&fp=random&type=ws&path=/&encryption=none#🌀VP™-MTN🌀/54
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?security=tls&sni=147135001195.sec22org.com&fp=chrome&type=tcp&encryption=none#🌀VP™-MTN🌀/55
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?security=&sni=dw.alibichareh.dpdns.org&fp=random&type=ws&path=/?ed%3D2560&host=dw.alibichareh.dpdns.org&encryption=none#🌀VP™-MTN🌀/56
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#🌀VP™-MTN🌀/57
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🌀VP™-MTN🌀/58
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🌀VP™-MTN🌀/59
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🌀VP™-MTN🌀/60
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?security=&fp=chrome&type=ws&path=/?ed%3D2560&host=pari.parinazz.dpdns.org&encryption=none#🌀VP™-MTN🌀/61
+vless://f1abce0d-998b-4ee0-b0d3-d820e6bcd011@85.198.22.202:12215?security=&fp=chrome&type=ws&path=/&encryption=none#🌀VP™-MTN🌀/62
+vless://570f00ba-af38-44b9-955c-86f8272e0d3a@159.65.83.103:8440?security=reality&sni=refersion.com&fp=firefox&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&type=tcp&flow=xtls-rprx-vision&encryption=none#🌀VP™-MTN🌀/63
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.148.22:443?security=tls&sni=hOZori.iR&alpn=http/1.1&fp=randomized&type=ws&path=/Telegram@V2ray_Alpha&host=hozori.ir&encryption=none#🌀VP™-MTN🌀/64
+vless://17c2ff32-9744-4d54-8eb6-f4970e9f9031@fast.lifemethod.space:46679?security=&fp=chrome&type=tcp&encryption=none#🌀VP™-MTN🌀/65
