@@ -1,1 +1,11 @@
-up
+trojan://accbaab-acba-abac-cdba-acbbcaaccbab@127.0.0.1:1080?security=tls&fp=chrome&type=tcp#🔄 LATEST-UPDATE 05-Tir-1404 19:20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🌀VP™-Mar🌀-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🌀VP™-Mar🌀-2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcU13YTJJSmZ2RG9tazE1aUVCckZx@94.159.96.245:11902#🌀VP™-Mar🌀-3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🌀VP™-Mar🌀-4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🌀VP™-Mar🌀-5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🌀VP™-Mar🌀-6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🌀VP™-Mar🌀-7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🌀VP™-Mar🌀-8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🌀VP™-Mar🌀-9
