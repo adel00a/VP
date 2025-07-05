@@ -62,4 +62,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:44
 vless://f2d31ac3-9585-4ebb-9f5c-1df5b6cb068f@ir10.xrayvpn.top:1669?security=&fp=chrome&type=tcp&path=/@V2RAYVPN_XRAY/@V2RAYVPN_XRAY/@V2RAYVPN_XRAY/@V2RAYVPN_XRAY/@V2RAYVPN_XRAY/@V2RAYVPN_XRAY/@V2RAYVPN_XRAY/@V2RAYVPN_XRAY&headerType=http&host=bitcoin.org&encryption=none#🌀VP™-MTN🌀/61
 vless://9ea7c883-74eb-42c5-fc5e-a102b9d4cb7c@188.121.126.57:8080?security=&fp=chrome&type=ws&path=/irannnnnnnmmmiraaaaaannnnnnnnnirannnnnnnn&host=soft98.ir&encryption=none#🌀VP™-MTN🌀/62
 vless://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080?security=&fp=chrome&type=ws&path=/&encryption=none#🌀VP™-MTN🌀/63
-🌀VP™-MTN🌀*
+vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?security=&fp=chrome&type=ws&path=/?ed%3D2048&host=WQ.R5Kt41PbPO.zuLAIR.orG.&encryption=none#%F0%9F%8C%80VP%E2%84%A2-MTN%F0%9F%8C%80*
