@@ -1,4 +1,6 @@
 trojan://accbaab-acba-abac-cdba-acbbcaaccbab@127.0.0.1:1080?security=tls&fp=chrome&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%2001-Shahrivar-1404%20%F0%9F%95%91%2021%3A45
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?security=tls&sni=007.xingfu.qzz.io&fp=random&type=ws&path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy?ed%3D512&host=007.xingfu.qzz.io&encryption=none#🌀VP™-M🌀/90
+🌀VP™-Sa🌀**
 vless://f716fa40-e997-42d8-b93c-7122c63cc122@188.132.141.247:8880?security=&type=tcp&headerType=http&host=telewebion.com&encryption=none#🌀VP™-M🌀/1
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?security=tls&sni=007.xingfu.qzz.io&fp=random&type=ws&path=/&host=007.xingfu.qzz.io&encryption=none#🌀VP™-M🌀/2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#🌀VP™-M🌀/3
