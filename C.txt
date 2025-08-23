@@ -90,3 +90,5 @@ vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?security=tls&sni=0
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🌀VP™-M🌀/89
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?security=tls&sni=007.xingfu.qzz.io&fp=random&type=ws&path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy?ed%3D512&host=007.xingfu.qzz.io&encryption=none#🌀VP™-M🌀/90
 🌀VP™-Sa🌀**
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?security=tls&sni=007.xingfu.qzz.io&fp=random&type=ws&path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy?ed%3D512&host=007.xingfu.qzz.io&encryption=none#🌀VP™-M🌀/90
+🌀VP™-Sa🌀**
